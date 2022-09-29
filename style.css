@@ -1,0 +1,18 @@
+* {
+ background-color:plum;
+}
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+#history {
+    margin-top: 30px;
+}
+  
+.banner {
+    color: black;
+    font-size: 90px;
+    font-family: sans-serif;
+}
